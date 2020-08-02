@@ -12,6 +12,6 @@ NDK版本：**r17c**
 * 使用Camera视频采集
 * 使用OpenGL视频渲染
 * 使用FFmpeg音视频编码，输出音频压缩文件(aac)，视频压缩文件(h264)
-* 集成libfdkaac,h264,libyuv，FFmpeg等开源库
+* 集成libfdkaac,h264,libyuv等开源库
 #### 运行效果(工程根目录images文件夹)
 ![渲染效果](https://github.com/wanglongsoft/AudioVideoTransApp/tree/master/images/display.png)
